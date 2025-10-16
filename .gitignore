@@ -1,0 +1,51 @@
+# Environment variables
+.env
+
+# SECRET FILES - NEVER COMMIT THESE!
+credentials.json
+xerironx-studio-472418-a23db74a64d6.json
+gamification_data.json
+tasks.json
+*.ogg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Task storage
+tasks.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
